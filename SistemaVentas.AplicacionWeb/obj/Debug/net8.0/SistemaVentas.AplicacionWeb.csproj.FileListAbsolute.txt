@@ -815,3 +815,5 @@ D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\obj\Debug\net8.0\refint\Sist
 D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\obj\Debug\net8.0\SistemaVentas.AplicacionWeb.pdb
 D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\obj\Debug\net8.0\SistemaVentas.AplicacionWeb.genruntimeconfig.cache
 D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\obj\Debug\net8.0\ref\SistemaVentas.AplicacionWeb.dll
+D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\bin\Debug\net8.0\AutoMapper.dll
+D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

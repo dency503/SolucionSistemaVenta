@@ -56,3 +56,4 @@ D:\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.dll
 D:\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\refint\SistemaVenta.IOC.dll
 D:\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.pdb
 D:\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\ref\SistemaVenta.IOC.dll
+C:\Users\Saira\Downloads\SolucionSistemaVenta\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.sourcelink.json

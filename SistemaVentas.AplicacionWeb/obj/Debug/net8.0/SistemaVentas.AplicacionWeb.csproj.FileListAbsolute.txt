@@ -817,3 +817,5 @@ D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\obj\Debug\net8.0\SistemaVent
 D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\obj\Debug\net8.0\ref\SistemaVentas.AplicacionWeb.dll
 D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\bin\Debug\net8.0\AutoMapper.dll
 D:\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Saira\Downloads\SolucionSistemaVenta\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Saira\Downloads\SolucionSistemaVenta\SolucionSistemaVenta\SistemaVentas.AplicacionWeb\obj\Debug\net8.0\SistemaVentas.AplicacionWeb.sourcelink.json

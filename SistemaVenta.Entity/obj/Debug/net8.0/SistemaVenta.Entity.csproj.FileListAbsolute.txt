@@ -41,3 +41,4 @@ D:\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\refint\SistemaVenta
 D:\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
 D:\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
 D:\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll
+C:\Users\Saira\Downloads\SolucionSistemaVenta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.sourcelink.json
